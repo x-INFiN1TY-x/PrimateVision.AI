@@ -52,6 +52,4 @@ The VGG19 project utilizes the VGG19 architecture for image classification tasks
 - Validation Loss: 0.4815 | Validation Accuracy: 93.38%
 - Test Loss: 0.6433 | Test Accuracy: 89.71%
 
----
-
-This README provides comprehensive details about the monkey species classification projects utilizing the VGG16 and VGG19 architectures, including model configurations, optimization techniques, performance metrics, and more.
+--------------------------------------------
