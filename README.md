@@ -1,4 +1,4 @@
-# PrimateVision.AI
+# PrimateVision.DeepL
 
 
 This repository presents custom implementations of the VGG16 and VGG19 convolutional neural network architectures for the classification of monkey species using the 10 Monkey Species dataset.
